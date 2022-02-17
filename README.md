@@ -24,8 +24,8 @@ Any work that seems easy will have a learning curve that helps grow forward and 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/shameerkamaludeen/qr-code-component-main)
+- Live Site URL: [Click here](https://shameerkamaludeen.github.io/qr-code-component-main/)
 
 ## My process
 
