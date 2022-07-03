@@ -1,0 +1,38 @@
+%flex-v-centered {
+    display: flex;
+    align-items: center;
+}
+
+
+html, 
+body {
+    height: 100vh;
+}
+
+body {
+    @extend %flex-v-centered;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    flex: 0;
+}
+
+.wrapper {
+    @extend %flex-v-centered;
+    height: 100%;
+}
+
+/* || Footer */
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
