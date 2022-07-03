@@ -1,0 +1,47 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+// variables
+
+$font-family-outfit: 'Outfit', sans-serif;
+
+
+// color
+$bc-primary: hsl(212, 45%, 89%);
+$bc-secondary: hsl(0, 0%, 100%);
+$c-primary: hsl(218, 44%, 22%);
+$c-secondary: hsl(220, 15%, 55%);
+
+// Placeholders
+
+%card-content-styles {
+    line-height: 1.3;
+    text-align: center;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+// typography
+
+body {
+    font-family: $font-family-outfit;
+    background-color: $bc-primary;
+    font-size: 10px;
+}
+
+h2 {
+    @extend %card-content-styles;
+    font-weight: 700;
+    color: $c-primary;
+    font-size: 1.4rem;
+}
+
+p {
+    @extend %card-content-styles;
+    font-weight: 400;
+    color: $c-secondary;
+    font-size: 1rem;
+}

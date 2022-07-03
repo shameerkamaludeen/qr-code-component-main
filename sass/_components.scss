@@ -1,0 +1,14 @@
+@use 'base';
+// card component
+.card-qr {
+    width: 32em;
+    height: 50em;
+    padding: 1.6em;
+    background-color: base.$bc-secondary;
+    border-radius: 15px;
+
+    .qr-img {
+        width: 100%;
+        border-radius: 10px;
+    }
+}
