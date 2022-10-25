@@ -58,5 +58,3 @@ Knowing CSS methodologies will be a plus moving forward, not just limit on that 
 
 - Github - [Shameer Kamaludeen](https://github.com/shameerkamaludeen)
 - Frontend Mentor - [@shameerkamaludeen](https://www.frontendmentor.io/profile/shameerkamaludeen)
-- Twitter - [@ShameerKamalud1](https://twitter.com/ShameerKamalud1)
-
